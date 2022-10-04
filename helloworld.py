@@ -275,6 +275,6 @@ x = None
 print(x)
 print(type(x))
 
-# Print a random number in the range of 1-10
+# Print a random number in the range of 1-11
 
-print(random.randrange(1, 10))
+print(random.randrange(1, 11))
