@@ -101,6 +101,7 @@ print(txt)
 txt = 'It\'s alright.'
 print(txt)
 
+# How to insert a backslash 
 txt = "This will insert one \\ (backslash)."
 print(txt) 
 
