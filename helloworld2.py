@@ -110,7 +110,11 @@ txt = "Hello\nWorld!"
 print(txt) 
 
 
-
+def myfnc():
+    global a
+    a = "Cynthia"
+    print(a)
+myfnc()
 
 
 
