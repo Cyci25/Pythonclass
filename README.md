@@ -1,5 +1,5 @@
 # Pythonclass
-Relearning Python
+Relearning Python.
 ## October Challange to try code everyday as I relearn my python skills
 1. Int
 2. Strings
