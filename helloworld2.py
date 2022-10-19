@@ -29,6 +29,7 @@ def myfunc():
 
 myfunc()
 
+
 # slicing 
 a = "Hello World!"
 print(a[2:6])
@@ -112,10 +113,18 @@ print(txt)
 
 def myfnc():
     global a
-    a = "Cynthia"
+    a = "Cynthia Muriithi"
     print(a)
 myfnc()
 
+print(a)
+
+
+def myloop():
+    v = "Cynthia"
+    for x in v:
+        print(x)
+myloop()
 
 
 
